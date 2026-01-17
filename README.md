@@ -2,8 +2,6 @@
 ```markdown
 # Python Portfolio – [Jeff Milam aka jmiaie]
 
-## 🗂 Recommended Repository Structure
-
 ```text
 python-portfolio/
 │
@@ -102,34 +100,6 @@ A production-ready Python application solving a real-world problem.
 - LinkedIn: https://linkedin.com/in/yourprofile
 ```
 
----
-
-## 📄 Individual Project README Template
-
-````markdown
-# Project Name
-
-## Problem
-Brief description of the problem this project solves.
-
-## Solution
-How your Python solution works.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Tech Stack
-- Python
-- Libraries used
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
-````
-
 ## What I Learned
 
 * Key technical takeaways
@@ -145,14 +115,14 @@ python main.py
 ---
 
 ## 🏆 What This Signals to Employers
-- You can **finish projects**
-- You understand **structure & clarity**
-- You think in **products, not tutorials**
-- You write **maintainable Python code
+- I can **finish projects**
+- I understand **structure & clarity**
+- I think in **products, not tutorials**
+- I write **maintainable Python code
 
 ---
 
-> “Code is cheap. Shipping is rare.” "Make them wear it!" "makethemwearit"
+> “Code is cheap. Shipping is rare.” "Make them wear it!" "Wear it!"
 
 Build. Ship. Iterate.
 
